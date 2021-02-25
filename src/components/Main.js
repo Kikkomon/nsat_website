@@ -33,13 +33,10 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-          Specializing in the transport and storage of fine art and antiques for over 30 years.
-          </p>
-          <p>
-          Weekly Shuttle between Washington DC and New York City. Servicing all of the eastern seaboard.
-         </p>
-          <p>
-          Servicing art dealers, collectors, auction houses, museums, designers, and private clients with an experienced, professional, and polite crew.
+         North South Art Transfer is committed to providing the highest quality of service in the transport of Fine Art and Antiques.  We have been handling art for over three decades, proudly serving Washington DC's and New York City's finest antique dealers and most prestigious collectors. We also cater to auctions houses, cabinet shops, and other antique furniture moving companies.  We run a weekly shuttle from the Metropolitan D.C. area to New York City.  We also make frequent trips as far as Florida all the way up to Maine.  
+       
+Please contact us for any transportation or logistics advice or information you may need, and we will be happy to accommodate.  To use our services please click on request a quote or send an email to Robert@NSATransfer.com. Thank you for using NSAT.
+
           </p>
            
           {close}
